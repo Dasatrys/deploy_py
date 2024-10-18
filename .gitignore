@@ -1,0 +1,19 @@
+#Project specific
+database
+logs
+site
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.docker
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
